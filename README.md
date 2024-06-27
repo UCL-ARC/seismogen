@@ -36,7 +36,7 @@ This project is developed in collaboration with the [Centre for Advanced Researc
 ### Project team
 
 - Devaraj Gopinathan ([Devaraj-G](https://github.com/Devaraj-G))
-- Dimitra Salmanidou ([dimitrasal][https://github.com/dimitrasal])
+- Dimitra Salmanidou ([dimitrasal](https://github.com/dimitrasal))
 - Matt Graham ([matt-graham](https://github.com/matt-graham))
 
 ## Getting started
