@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Gopinathan"
+    given-names: "Devaraj"
+    email: "d.gopinathan@ucl.ac.uk"
+    orcid: "https://orcid.org/0000-0002-0490-3229"
+    affiliation: "University College London"
+  - family-names: "Salmanidou"
+    given-names: "Dimitra"
+    email: "d.salmanidou.12@ucl.ac.uk"
+    affiliation: "University College London"
+  - family-names: "Graham"
+    given-names: "Matthew M."
+    email: "m.graham@ucl.ac.uk"
+    orcid: "https://orcid.org/0000-0001-9104-7960"
+    affiliation: "University College London"
+repository-code: "https://github.com/UCL-ARC/seismogen"
+title: "seismogen: A Python package for earthquake generation"
+license: "MIT"
